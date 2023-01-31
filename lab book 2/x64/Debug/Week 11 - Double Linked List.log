@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\josan\desktop\lab book 2\src\main.cpp(24): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl doubleLinkedList::doubleLinkedList(void)" (??0doubleLinkedList@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl doubleLinkedList::add(int)" (?add@doubleLinkedList@@QEAAXH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl doubleLinkedList::showbeginend(void)" (?showbeginend@doubleLinkedList@@QEAAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl doubleLinkedList::showendbegin(void)" (?showendbegin@doubleLinkedList@@QEAAXXZ) referenced in function main
+C:\Users\josan\Desktop\lab book 2\x64\Debug\Week 11 - Double Linked List.exe : fatal error LNK1120: 4 unresolved externals
